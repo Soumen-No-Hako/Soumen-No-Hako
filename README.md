@@ -1,7 +1,7 @@
 # Hi there, I'm Soumen Mitra 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumen-mitra/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/soumen8492/)
 [![GitHub](https://img.shields.io/badge/GitHub-Soumen--No--Hako-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumen-No-Hako)
 [![Email](https://img.shields.io/badge/Email-soumen8492%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soumen8492@gmail.com)
 
@@ -58,5 +58,5 @@ Senior Backend & Systems Engineer with **4.5 years of experience** specializing 
 ### 📬 Connect With Me
 * **Email:** [soumen8492@gmail.com](mailto:soumen8492@gmail.com)
 * **GitHub:** [@Soumen-No-Hako](https://github.com/Soumen-No-Hako)
-* **LeetCode:** [Profile](https://leetcode.com/)
-* **LinkedIn:** [Profile](https://www.linkedin.com/)
+* **LeetCode:** [Profile](https://leetcode.com/u/soumen8492/)
+* **LinkedIn:** [Profile](https://www.linkedin.com/soumen-mitra)
