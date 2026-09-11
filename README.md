@@ -59,4 +59,4 @@ Senior Backend & Systems Engineer with **4.5 years of experience** specializing 
 * **Email:** [soumen8492@gmail.com](mailto:soumen8492@gmail.com)
 * **GitHub:** [@Soumen-No-Hako](https://github.com/Soumen-No-Hako)
 * **LeetCode:** [Profile](https://leetcode.com/u/soumen8492/)
-* **LinkedIn:** [Profile](https://www.linkedin.com/soumen-mitra)
+* **LinkedIn:** [Profile](https://www.linkedin.com/in/soumen-mitra)
